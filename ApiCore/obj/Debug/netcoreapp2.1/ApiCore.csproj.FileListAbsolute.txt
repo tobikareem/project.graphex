@@ -1,0 +1,3 @@
+C:\Project.Graphex\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csproj.CoreCompileInputs.cache
+C:\Project.Graphex\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfoInputs.cache
+C:\Project.Graphex\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfo.cs
