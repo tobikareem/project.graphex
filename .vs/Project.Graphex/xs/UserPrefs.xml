@@ -1,15 +1,9 @@
 ﻿<Properties StartupConfiguration="{FB25BC39-B1AB-45C9-B3BF-4175046DE0EB}|Default">
   <MonoDevelop.Ide.ItemProperties.ApiCore PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/EFCore/DbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Services/CategoryRepository.cs">
     <Files>
-      <File FileName="ApplicationCore/Class1.cs" Line="9" Column="1" />
-      <File FileName="ApplicationCore/Enitities/Category.cs" Line="9" Column="1" />
-      <File FileName="ApplicationCore/Interfaces/IRepository.cs" Line="13" Column="2" />
       <File FileName="Infrastructure/Class1.cs" Line="1" Column="1" />
       <File FileName="Infrastructure/Services/CategoryRepository.cs" Line="13" Column="38" />
-      <File FileName="Infrastructure/Services/CategoryService.cs" Line="11" Column="1" />
-      <File FileName="ApplicationCore/DataAccess/CategoryRepository.cs" Line="1" Column="1" />
-      <File FileName="Infrastructure/EFCore/DbContext.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

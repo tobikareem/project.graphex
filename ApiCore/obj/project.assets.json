@@ -11806,13 +11806,13 @@
       "projectName": "ApiCore",
       "projectPath": "/Users/oluwatobikareem/Documents/VSCodes/project.graphex/ApiCore/ApiCore.csproj",
       "packagesPath": "/Users/oluwatobikareem/.nuget/packages/",
-      "outputPath": "/Users/oluwatobikareem/Documents/VSCodes/project.graphex/ApiCore/obj/",
+      "outputPath": "/Users/oluwatobikareem/Documents/VSCodes/project.graphex/ApiCore/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/oluwatobikareem/.nuget/NuGet/NuGet.Config"
+        "/Users/oluwatobikareem/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -11834,25 +11834,25 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.1.0",
+            "autoReferenced": true
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.1, )",
-            "autoReferenced": true
+            "version": "2.1.1"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.2, )"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.1.0, )",
-            "autoReferenced": true
+            "version": "2.1.2"
           },
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
-            "version": "[1.0.2105168, )"
+            "version": "1.0.2105168"
           }
         },
         "imports": [
