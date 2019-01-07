@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="EFCore\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApplicationCore\Application.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="DataAccess\CustomerRepository.cs" />
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+</Project>

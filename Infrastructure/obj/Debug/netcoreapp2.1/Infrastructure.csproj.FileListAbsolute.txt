@@ -1,0 +1,12 @@
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.deps.json
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.dll
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.pdb
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/bin/Debug/netcoreapp2.1/Application.dll
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/bin/Debug/netcoreapp2.1/Application.pdb
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.AssemblyInfo.cs
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.dll
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.pdb
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.csprojAssemblyReference.cache
+/Users/oluwatobikareem/Documents/VSCodes/project.graphex/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.csproj.CopyComplete
